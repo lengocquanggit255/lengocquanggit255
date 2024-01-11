@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Le Ngoc Quang</h1>
 <h3 align="center">With eyes wide open, I see beyond the confines of the present moment and venture into the vast expanse of imagination</h3>
 
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://i.pinimg.com/originals/bc/6b/bd/bc6bbd1da2b0983338e537960ad57a39.gif)">
+![641c2b170466977 645e34a7760bf](https://github.com/lengocquanggit255/lengocquanggit255/assets/126934622/3f7d0017-a232-49b4-b0ef-a4148d380edb)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengocquanggit255&label=Profile%20views&color=0e75b6&style=flat" alt="lengocquanggit255" /> </p>
 
