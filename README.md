@@ -18,7 +18,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **lengocquang2554@gmail.com**
+- 📫 Reach me at **lengocquang2554@gmail.com**
 
 - ⚡ Fun fact **Honey never spoils.**
 
