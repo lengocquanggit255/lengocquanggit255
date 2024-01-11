@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lengocquanggit255&label=Profile%20views&color=0e75b6&style=flat" alt="lengocquanggit255" /> </p>
 
-- 🔭 I’m currently working on **learning frontend and backend**
+- 🔭 I’m currently studying at **VNU University of Engineering and Technology – VNU-UET**
 
 - 🌱 I’m currently learning **database management systems**
 
