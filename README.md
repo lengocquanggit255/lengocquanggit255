@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **designing**
 
-- 👨‍💻 All of my projects are available at [https://github.com/lengocquanggit255/lengocquanggit255](https://github.com/lengocquanggit255/lengocquanggit255)
+- 👨‍💻 All of my projects are available at [https://github.com/lengocquanggit255/lengocquanggit255](https://github.com/lengocquanggit255)
 
 - 💬 Ask me about **anything**
 
