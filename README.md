@@ -24,8 +24,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/le ngoc quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="le ngoc quang" height="30" width="40" /></a>
-<a href="https://instagram.com/trinh_nu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trinh_nu" height="30" width="40" /></a>
+<a href="https://fb.com/Le Ngoc Quang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="le ngoc quang" height="30" width="40" /></a>
+<a href="https://instagram.com/trinhnu_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="trinh_nu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/thanbuioi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="thanbuioi" height="30" width="40" /></a>
 </p>
 
