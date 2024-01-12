@@ -36,4 +36,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lengocquanggit255&show_icons=true&locale=en" alt="lengocquanggit255" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lengocquanggit255&" alt="lengocquanggit255" /></p>
